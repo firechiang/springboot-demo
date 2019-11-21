@@ -1,0 +1,6 @@
+server:
+  port: 2019
+  
+spring:
+  application:
+    name: springboot-demo  
